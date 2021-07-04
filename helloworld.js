@@ -4,6 +4,7 @@ function setup() {
     if (true) {
         console.log("Hello");
     }
+    
 }
 
 function draw() {
